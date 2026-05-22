@@ -1,4 +1,4 @@
-# 🔌 MWHud Plugin — Server-Side Data Provider
+# 🔌 MWHudPlugin — Server-Side Data Provider
 
 The server-side companion plugin for the **MWHud Fabric Mod**. Collects real-time player statistics and pushes them to connected clients over a custom network channel.
 
@@ -23,7 +23,7 @@ Once installed, the plugin automatically detects when a player joins with the mo
 
 ## 📊 Data Provided
 
-| Stat | PlaceholderAPI Dependency |
+| Stat | MWHudPlugin + PlaceholderAPI Dependency |
 |------|:---:|
 | Money | Required |
 | Mobcoins | Required |
